@@ -1,0 +1,13 @@
+
+----Install apps. Not from app store.
+
+VSCode and extensions.
+Git.
+Python.
+C#NET.
+
+Notepad++.
+
+--setup and login.
+Setup VSCode.
+Setup Git. Github.
